@@ -1,0 +1,6 @@
+{
+  "name": "Kusina Express - Karenderya Ordering & Tindera KDS",
+  "description": "Filipino carinderia daily ulam online ordering, live availability toggles, GCash/Cash checkout, and Tindera Kitchen Display System (KDS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
